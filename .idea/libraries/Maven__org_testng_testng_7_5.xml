@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.testng:testng:7.5" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.testng" artifactId="testng" version="7.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.5/testng-7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.5/testng-7.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.5/testng-7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
