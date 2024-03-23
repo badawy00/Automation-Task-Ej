@@ -20,7 +20,7 @@ public class GetOrders {
 
        System.out.println("That's the data of Specific value");
        given().header("Authorization",token).get("/orders/H6e0Tx0ZU98ZHtXQDZgVu")
-               .then().statusCode(200).body("bookId",equalTo(5)).log().all();
+               .then().statusCode(200).body("bookId",equalTo(1)).log().all();
    }
 
 }
